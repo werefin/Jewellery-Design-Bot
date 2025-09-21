@@ -1,0 +1,3 @@
+csm-ai
+streamlit
+openai==0.28
